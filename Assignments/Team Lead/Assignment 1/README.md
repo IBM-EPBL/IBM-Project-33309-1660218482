@@ -19,3 +19,10 @@ Solution - second_question.py
 _______________________________________________________________________________________________________
 
 
+Question 3 :
+
+Write a flask web app that asks for user resume file and then displays the resume details of the user
+
+Solution - third_question.py, upload.html
+
+_______________________________________________________________________________________________________
