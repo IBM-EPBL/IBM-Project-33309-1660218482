@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, url_for, make_response
+from flask import Flask, render_template, request, redirect, url_for, flash, make_response
 
 app = Flask(__name__)
 @app.route('/cookie/')
